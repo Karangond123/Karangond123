@@ -1,0 +1,56 @@
+ body{
+color :red;
+/*background-image: url('k.png');
+background-color: rgba(255,55,60,1.0);
+background-size: 20px; */
+}
+
+p{
+color:   #F4A460;
+background:blue;
+font-size: 30px;
+}
+h1{
+color:green ;
+background:red ;
+}
+h2{
+color:red    ;
+background: #FF00FF ;
+}
+div{
+  height: 160px;
+  width: 160px;
+  border-radius: 50%;
+  background-color:red;
+  right: 20px;
+ /* border-radius: 100px;*/
+  box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15);
+}
+.div1{
+  height: 150px;
+  width: 150px;
+  background-color: blue;
+  border-radius: 50%;
+  box-shadow: 6px 6px 10px -1px rgba(255,0,0,0.15);
+  
+}
+.div2{
+  height: 140px;
+  width: 140px;
+  background-color:#FF89FF;
+  border-radius: 50%;
+  top: 20px;
+  left: 20px;
+  box-shadow: 6px 6px 10px -1px rgba(0,255,0,0.15);
+  
+}
+.div3{
+  height: 430px;
+  width: 430px;
+  background-color: gold;
+  border-radius: 50%;
+  box-shadow: 6px 6px 10px -1px rgba(0,0,,0.15);
+  position: center;
+  left: 200px;
+}
